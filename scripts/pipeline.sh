@@ -18,8 +18,8 @@ function help {
 	"
 }
 
-osm_input_bin="vendor/osm_input/osm_input"
-gb_bin="vendor/growing_balls/growing_balls"
+osm_input_bin="bin/vendor/osm_input/osm_input"
+gb_bin="bin/vendor/growing_balls/growing_balls"
 echo "
 This shell script executes the pipeline to perform the following steps to
 compute a label elimination order that allows for non overlapping label
